@@ -55,7 +55,7 @@ Graph shortest path (그래프 최단경로)
 
 2. Java : https://kingpodo.tistory.com/50
 
-# Union - set (크루스칼 알고리즘에 필요)
+# Union - find (크루스칼 알고리즘에 필요)
 
 1. Cpp :
 
